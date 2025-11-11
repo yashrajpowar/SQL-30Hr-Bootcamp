@@ -29,6 +29,3 @@ This repository showcases my learning journey through the **30-hour SQL Full Cou
 ✅ Completed all 30 hours of content  
 📜 Certificate available upon request or linked here ( https://www.udemy.com/certificate/UC-0af9c970-dcba-4738-a77f-ddcc2ba09b37/ )
 
----
-
-Let me know if you'd like to include your certificate, GitHub badge, or link this to your resume or portfolio. I can also help you write a pinned project summary or add a professional tagline.
