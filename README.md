@@ -1,3 +1,6 @@
+## 🙏 Special Thanks
+
+A huge thank you to **Baraa Khatib Salkini** for the phenomenal [SQL Full Course for Beginners (30 Hours)](https://youtu.be/SSKVgrwhzus?si=zFXOC2tAkGtv8MEb). Your structured teaching, real-world examples, and clear explanations made SQL approachable and powerful. This repository is a tribute to the skills I gained through your course.
 
 ## 🧠 SQL Full Course for Beginners – From Zero to Hero (30 Hours)
 
